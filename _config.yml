@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kevin (Binglin) Ji"
-  pronouns         : "he/his" # example: "she/her"  
+  #pronouns         : "he/his" # example: "she/her"  
   bio              : "Creating Efficient and Intelligent AI Systems"
   location         : "STL, MO"
   employer         : "Washington University in St. Louis"
