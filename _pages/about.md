@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year master's student in Stream Based Super Computing Lab in Washington University in St. Louis, major in Computer Engineering & Electrical Engineering. I'm interested in AI (Especially Bayesian Problems) and System For AI (Especially AI Inference on General Processors)
+I'm a second year master's student in Stream Based Super Computing Lab in Washington University in St. Louis, major in Computer Engineering & Electrical Engineering. I'm interested in `AI Algorithms` (Especially Bayesian Problems) and `System For AI` (Especially AI Inference on General Processors)
 
 System For AI
 ======
