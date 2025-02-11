@@ -14,13 +14,13 @@ in Washington University in St. Louis, major in Computer Engineering & Electrica
 
 System For AI
 ======
-Fast GNN Inference on Multi-Core Systems.
+GNN Inference optimization.
 
 
 
-Active Discovery
+AI Methods
 ======
-Partially observed active discovery with online feedback.
+Online Active Discovery.
 
 
 
